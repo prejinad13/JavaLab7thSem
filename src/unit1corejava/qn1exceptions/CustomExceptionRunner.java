@@ -2,7 +2,7 @@ package unit1corejava.qn1exceptions;
 
 public class CustomExceptionRunner {
     public static void main(String[] args) {
-        BankAccount account = new BankAccount("Suman",5000);
+        BankAccount account = new BankAccount("Prejina",5000);
         account.displayBalance();
 
         try {
