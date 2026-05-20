@@ -10,5 +10,8 @@
     <orderEntry type="library" name="mysql-connector-java-8.0.18" level="project" />
     <orderEntry type="library" name="jakarta.mail-2.0.1" level="project" />
     <orderEntry type="library" name="jakarta.activation-2.0.1" level="project" />
+    <orderEntry type="library" name="prejinajavalab" level="project" />
+    <orderEntry type="library" name="javafx.fxml" level="project" />
+    <orderEntry type="library" name="lib" level="project" />
   </component>
 </module>
